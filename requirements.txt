@@ -1,0 +1,7 @@
+streamlit
+yfinance
+pandas
+numpy
+google-generativeai
+matplotlib
+ag2[gemini]
