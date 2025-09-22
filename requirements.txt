@@ -2,6 +2,7 @@ streamlit
 yfinance
 pandas
 numpy
+vectorbt
 google-generativeai
 matplotlib
 ag2[gemini]
